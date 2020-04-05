@@ -31,12 +31,20 @@ Get a bar plot for the parameters that you select which runs over the whole data
 # 
 ### Steps to Run
 
-Clone/Download- git clone https://github.com/rujual/streamlit_fifa.git
+Clone/Download- 
+```bash
+$ git clone https://github.com/rujual/streamlit_fifa.git
+```
 
-Install Streamlit Python library- $ pip install streamlit
+Install Streamlit Python library- 
+```bash
+$ pip install streamlit
+```
 
 Open terminal and Go into downloaded directory-
 
-Run - $ streamlit run fifa.py
-
+Run - 
+```bash
+$ streamlit run fifa.py
+```  
 ## The Game is On!
